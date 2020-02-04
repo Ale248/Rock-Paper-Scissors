@@ -6,7 +6,7 @@ It's a classic Rock Paper Scissors game in HTML.
 
 ## Installation
 
-Just download the whole thing and open index.html in your preferred browser.
+Just download the whole thing and open `index.html` in your preferred browser.
 
 ## Other
 
